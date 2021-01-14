@@ -2,7 +2,9 @@
 
 ---
 
-![Golang Logo](https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg)
+<div style="text-align: center">
+    <img alt="Golang Logo" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="250px" />
+</div>
 
 ## Docs
 
@@ -10,4 +12,4 @@
 
 ## Go Home
 
-- [Home Portal](..)
+- [Home Portal](/)
