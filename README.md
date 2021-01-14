@@ -19,7 +19,7 @@ _2 TILs and counting..._
 I shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til).
 
-Special thanks to [arturparkhisenko](https://github.com/arturparkhisenko) for the whole idea (I started digging in that direction from his repository).
+Special thanks to [arturparkhisenko](https://github.com/arturparkhisenko) for the whole idea (I started digging in that direction from [his repository](https://github.com/arturparkhisenko/til)).
 
 ## Other TIL Collections
 

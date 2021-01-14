@@ -2,14 +2,12 @@
 
 ---
 
-<div style="text-align: center">
-    <img alt="Golang Logo" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="250px" />
-</div>
+<img alt="Golang Logo" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="250px" />
 
 ## Docs
 
 - Official website [golang.org/](https://golang.org/)
 
-## Go Home
+## Root
 
-- [Home Portal](/)
+- [Root Portal](https://github.com/exsesx/til)
