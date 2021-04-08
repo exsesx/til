@@ -7,6 +7,7 @@
 ## Docs
 
 - Official website [golang.org/](https://golang.org/)
+- Go embed: [example](./examples/go-embed/main.go) and [docs](https://golang.org/pkg/embed/)
 
 ## Root
 
